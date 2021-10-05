@@ -66,3 +66,10 @@ CSS Frameworks werden dabei einfach über einen Link eingebunden und anschließe
 
 ## Danksagung
 ## Sponsoren
+Vielen lieben Dank noch einmal an unsere Sponsoren!
+
+|Sponsor|.|Beschreibung|
+|-|-|-|
+|mailbox.org|![mailbox.org](https://mailbox.org/files/downloads/Logo_mailbox.org_14.04.21_250px.png)|Vielen Dank für das Bereitstellen von anonymen, modernen, und sicheren E-Mail Konten für unsere Teilnehmerinnen!|
+|PythonAnywhere|![PythonAnywhere](https://www.fullstackpython.com/img/logos/pythonanywhere.jpg)|Vielen Dank für die Benutzerkonten für das Hosting der Websites unserer Teilnehmerinnen mit erweiterten Features!|
+|xiv-consult GmbH|![xiv-consult](https://xiv-consult.com/wp-content/uploads/2019/09/logo-xiv-consult-navx2-1.png)|Vielen Dank für die Unterstützung beim Datenschutz für unseren Bewerbungsprozess!|
