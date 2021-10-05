@@ -35,24 +35,24 @@ CSS Frameworks werden dabei einfach über einen Link eingebunden und anschließe
 #### Auf Python-Anywhere einstellen
 
 ### Weitere Django Ressourcen
-[DjangoGirls Tutorial](https://tutorial.djangogirls.org/de/)
-[offizielles Django Tutorial](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
-[Django Dokumentation](https://docs.djangoproject.com/en/3.2/)
+- [DjangoGirls Tutorial](https://tutorial.djangogirls.org/de/)
+- [offizielles Django Tutorial](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
+- [Django Dokumentation](https://docs.djangoproject.com/en/3.2/)
 
 ## Vertiefung von Workshop-Themen
 
 ### Shell / Kommandozeile
-[interaktiv Umgang mit dem Terminal lernen](https://linuxjourney.com/lesson/the-shell)
-[interaktiv Linux im Terminal kennenlernen](https://linuxsurvival.com)
-[Linux/UNIX lernen](https://www.tutorialspoint.com/unix/)
+- [interaktiv Umgang mit dem Terminal lernen](https://linuxjourney.com/lesson/the-shell)
+- [interaktiv Linux im Terminal kennenlernen](https://linuxsurvival.com)
+- [Linux/UNIX lernen](https://www.tutorialspoint.com/unix/)
 
 ### Git
-[Git interaktiv lernen und verstehen](https://learngitbranching.js.org)
+- [Git interaktiv lernen und verstehen](https://learngitbranching.js.org)
 
 ### VS-Code
 
 ### Python
-[kostenloses Online Buch](https://automatetheboringstuff.com)
+- [kostenloses Online Buch](https://automatetheboringstuff.com)
 
 ### Django
 
